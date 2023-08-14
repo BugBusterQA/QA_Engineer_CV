@@ -20,11 +20,11 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/)
-- [Test-Suites and Test-Cases](https://github.com/)
-- [Bug-Reports](https://github.com/)
-- [SQL Queries](https://github.com/)
-- [Postman Collections](https://github.com/)
+- [Checklists](https://github.com/BugBusterQA/Checklists)
+- [Test-Suites and Test-Cases](https://github.com/BugBusterQA/test-cases)
+- [Bug-Reports](https://github.com/BugBusterQA/bug-reports)
+- [SQL Queries](https://github.com/BugBusterQA/SQL)
+- [Postman Collections](https://github.com/BugBusterQA/postman)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)](https://www.youtube.com/)
