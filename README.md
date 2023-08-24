@@ -20,8 +20,6 @@
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
-### OS ![Header]([https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white))
-
 ### Testing Documentation
 
 - [Checklists](https://github.com/BugBusterQA/Checklists)
