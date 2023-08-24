@@ -1,4 +1,4 @@
-[Русский](./README-ru.md) | [English](./README.md) | [Français](./README-fr.md) | [Español](./README-es.md) | [Deutsch](./README-de.md) | [Italiano](./README-it.md) 
+[Русский](./README-ru.md) | [English](./README.md) | [Français](./README-fr.md) | [Español](./README-es.md) | [Deutsch](./README-de.md)
 
 ## Sono un ingegnere del controllo qualità
 ## Il mio curriculum
