@@ -1,3 +1,5 @@
+[Русский](./README-ru.md) | [English](./README.md) | [Français](./README-fr.md) | [Español](./README-es.md) | [Deutsch](./README-de.md) | [Italiano](./README-it.md) 
+
 ## I'm a QA Engineer
 ## My CV
 [Link to my CV](https://drive.google.com/)
