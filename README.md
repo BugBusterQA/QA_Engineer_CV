@@ -27,6 +27,7 @@
 - [Bug-Reports](https://github.com/BugBusterQA/bug-reports)
 - [SQL Queries](https://github.com/BugBusterQA/SQL)
 - [Postman Collections](https://github.com/BugBusterQA/postman)
+- [TestRail](https://github.com/BugBusterQA/TestRail)
 
 ### Follow Me
 
